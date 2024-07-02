@@ -28,8 +28,10 @@ Soy estudiante de ing en informatica y Desarrollador Web enfocado en programaci�
 Este proyecto fue desarrollado en equipo como parte de nuestra práctica profesional en la carrera de Ingeniería en Informática. El objetivo principal fue crear una solución eficiente para la gestión de reservas de máquinas de cerveza, barriles adicionales y servicios de bartender para la pyme "Carrete Cervecero".
 
 Link del Proyecto : https://github.com/Juan-Matias/CarreteCervecero
----  
-SISTEMA DE GESTION DE PELUQUERIA 
+
+---
+
+🚩SISTEMA DE GESTION DE PELUQUERIA 
 <p align="center" >
      <img src="https://github.com/Slark676/Java_Peluqueria_Canina/blob/master/PeluqueriaCanina.png" >
 </p>
