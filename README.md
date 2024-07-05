@@ -4,6 +4,7 @@ Soy estudiante de ing en informatica y Desarrollador Web enfocado en programaci√
 <p>
   <a href="https://www.linkedin.com/in/kelvin-rivero-m-194a8124b/"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
+
 ---  
 
 
@@ -16,6 +17,7 @@ Soy estudiante de ing en informatica y Desarrollador Web enfocado en programaci√
 <img src="https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
+
 ---  
 
 # Proyectos
