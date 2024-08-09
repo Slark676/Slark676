@@ -1,5 +1,5 @@
 # Hola a todos 👋🏻, Soy Kelvin Rivero
-Soy estudiante de ing en informatica y Desarrollador Web enfocado en programación Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.
+Soy estudiante de ing en informatica y Desarrollador Web enfocado en la programación. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.
 
 <p>
   <a href="https://www.linkedin.com/in/kelvin-rivero-m-194a8124b/"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
